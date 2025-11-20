@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.agent/
+
+# Generated Data
+imf_data.txt
+imf_data.csv
+imf_delta_table/
+verification_output.txt

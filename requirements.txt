@@ -1,0 +1,4 @@
+pyspark
+delta-spark
+cassandra-driver
+pandas
